@@ -11,21 +11,28 @@ This repository contains my coursework, exercises, and practice programs written
 
 ---
 
+## 👤 Author
+
+- **Name:** Bilol  
+- **GitHub:** 🔗 https://github.com/biloltj/CS203  
+- **Course:** CS203 – C Programming  
+
+---
+
 ## 🎯 Purpose of This Repository
 
 - 📌 Practice fundamental and advanced **C programming concepts**
 - 📌 Complete **academic assessments** for Dushanbe Innovation Institute
 - 📌 Follow structured learning from **K&R (ANSI C)**
-- 📌 Maintain clean, readable, and well-organized C code
+- 📌 Maintain clean, readable, and well-organized **C code** 💻
 
 ---
 
 ## 🗂 Repository Structure
 
-Each chapter from the book is placed in a **separate folder** for clarity:
+Each chapter from the book is placed in a **separate folder** for clarity 📁:
 
 ```bash
-
 📦 c-assessments
 ┣ 📂 chapter-01-tutorial-introduction
 ┣ 📂 chapter-02-types-operators-expressions
@@ -36,7 +43,7 @@ Each chapter from the book is placed in a **separate folder** for clarity:
 ┣ 📂 chapter-07-input-output
 ┣ 📂 chapter-08-unix-system-interface
 ┣ 📜 README.md
-
+┣ 🔗.gitignore
 
 ```
 
@@ -47,10 +54,8 @@ Each chapter from the book is placed in a **separate folder** for clarity:
 
 ### 🔹 Chapter 1: A Tutorial Introduction
 📂 `chapter-01-tutorial-introduction/`
-- Getting Started
-- Variables and Arithmetic Expressions 🌡️
-- `for` statement
-- Symbolic Constants
+- [Getting Started](https://github.com/biloltj/CS203/tree/main/chapter-01-tutorial-introduction/Getting_Started)
+- [Variables and Arithmetic Expressions🌡️](https://github.com/biloltj/CS203/tree/main/chapter-01-tutorial-introduction/Variables_and_Arithmetic_Expressions)
 - Character Input and Output
 - Arrays
 - Functions
