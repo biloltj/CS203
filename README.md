@@ -56,11 +56,10 @@ Each chapter from the book is placed in a **separate folder** for clarity 📁:
 📂 `chapter-01-tutorial-introduction/`
 - [Getting Started](https://github.com/biloltj/CS203/tree/main/chapter-01-tutorial-introduction/Getting_Started)
 - [Variables and Arithmetic Expressions🌡️](https://github.com/biloltj/CS203/tree/main/chapter-01-tutorial-introduction/Variables_and_Arithmetic_Expressions)
-- Character Input and Output
-- Arrays
-- Functions
-- Character Arrays
-- External Variables and Scope
+- [Character Input and Output](https://github.com/biloltj/CS203/tree/main/chapter-01-tutorial-introduction/Character_Input_Output)
+- [Functions](https://github.com/biloltj/CS203/tree/main/chapter-01-tutorial-introduction/Functions)
+- [Character Arrays](https://github.com/biloltj/CS203/tree/main/chapter-01-tutorial-introduction/Character_Arrays)
+- [External Variables and Scope](https://github.com/biloltj/CS203/tree/main/chapter-01-tutorial-introduction/External_Variables_Scope)
 
 ---
 
